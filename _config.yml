@@ -84,10 +84,10 @@ author:
   avatar           : "Anil_Goyal.jpg"
   bio              : "Principal Research Scientist at BUDDI.AI"
   location         : "Chennai, India"
-  employer         :
+  employer         : "BUDDI.AI"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=YxZAD94AAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "anilgoyal91@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Anil_Goyal8" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/anilgoyal91/"
+  linkedin         : "anilgoyal91"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
