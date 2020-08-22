@@ -6,10 +6,9 @@ classes: wide
 ---
 
 
-
-<img src="images/logo/nec.png" alt="" height="25" width="45"/> 
-### Research Scientist
-[NEC Laboratories Europe, Heidelberg, Germany]
+## Research Scientist
+[NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) (October, 2018 - August 2020)
+* As a part of AI Innovations Research Group, I am working on multiple Business Unit projects and EU Project COREALIS. 
 
 * Summer 2015: Research Assistant
   * Github University
