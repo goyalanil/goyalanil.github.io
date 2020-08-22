@@ -1,16 +1,10 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can find my publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=YxZAD94AAAAJ&view_op=list_works&sortby=pubdate) and [Research Gate](https://www.researchgate.net/profile/Anil_Goyal8) profiles.
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
