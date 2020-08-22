@@ -12,7 +12,7 @@ classes: wide
 * **Research Intern**, [Laboratoire d'Informatique de Grenoble (LIG), Grenoble, France](https://www.liglab.fr/) (Feb, 2015 - Jun, 2015)
 * **Software Developer**, [Pyramid Cyber Security & Forensics, Delhi, India](http://pyramidcyber.com/) (May,2014 - Aug, 2014)
 * **Research Intern**, [University of Hyderabad, Hyderabad, India](http://www.uohyd.ac.in/) (May,2013 - Jul, 2013)
-* **Developer Intern**, [INMAS Laboratory, DRDO, India](http://www.drdo.gov.in/drdo/labs/INMAS/English/index.jsp?pg=homebody.jsp) (May,2012 - Jul,2012)
+* **Developer Intern**, [INMAS Laboratory, DRDO, India](https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-medicine-allied-sciences-inmas) (May,2012 - Jul,2012)
 
 
   
