@@ -5,22 +5,15 @@ author_profile: true
 classes: wide
 ---
 
----
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
----
 
-* **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) (October, 2018 - August 2020)
+* (Oct, 2018 - Aug 2020: **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) 
+ <small>
   * Designed original machine learning algorithms, with special focus on ensemble meta-learning methods for regression and classification problems.
   * Validated methods with various datasets, including both open and customer data.
   * Produced 3 patent applications and 1 top-tier publication at IJCNN 2020 (CORE Rank A).
   * Developed prototypes for transfer of technology to NEC Business Units.
   * Managed one European Project COREALIS and one technology transfer project.
+ </small>
  
 * **Doctoral Researcher**, [LIG, Grenoble](https://www.liglab.fr/) and [LaHC, Saint-Etienne, France](http://laboratoirehubertcurien.fr/) (November, 2015 - October, 2018)
  \small
