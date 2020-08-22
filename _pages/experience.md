@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-## Research Scientist
+### Research Scientist
 [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) (October, 2018 - August 2020)
 * As a part of AI Innovations Research Group, I am working on multiple Business Unit projects and EU Project COREALIS. 
 
