@@ -6,22 +6,8 @@ classes: wide
 ---
 
 
-* (Oct, 2018 - Aug 2020): **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) 
-        ** dffd
- 
- 
- 
-* **Doctoral Researcher**, [LIG, Grenoble](https://www.liglab.fr/) and [LaHC, Saint-Etienne, France](http://laboratoirehubertcurien.fr/) (November, 2015 - October, 2018)
- \small
-  * Title of Doctoral Thesis: Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting.
-  * Designed and developed 3 multiview learning algorithms using PAC-Bayesian theory and ensemble learning.
-  * Experimented on text (written in 5 languages) and image (with 4 views) datasets. Showed significant improvement in prediction performance compared to state-of-art methods.
-  * Actively involved in French ANR Project LIVES.
-  * Top International publications: Neurocomputing Journal 2019, IDA 2018 (CORE Rank A),
-ECML-PKDD 2017 (CORE Rank A) 
-  * National publications: CAp 2018, CAp 2017, CAp 2016
-  
-
+* (Oct, 2018 - Aug 2020): **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/)  
+* (November, 2015 - October, 2018): **Doctoral Researcher**, [LIG, Grenoble](https://www.liglab.fr/) and [LaHC, Saint-Etienne, France](http://laboratoirehubertcurien.fr/) 
 * **Data Science Engineer**, [Cube26, Delhi, India] ()
 
 
