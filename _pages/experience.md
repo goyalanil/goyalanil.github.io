@@ -12,9 +12,19 @@ classes: wide
   * Produced 3 patent applications and 1 top-tier publication at IJCNN 2020 (CORE Rank A).
   * Developed prototypes for transfer of technology to NEC Business Units.
   * Managed one European Project COREALIS and one technology transfer project.
-  * As a part of AI Innovations Research Group, I am working on multiple Business Unit projects and EU Project COREALIS. 
  
-* **Doctoral Researcher**, [LIG, Grenoble]() and [LaHC, Saint-Etienne, France]() (November, 2015 - October, 2018)
+* **Doctoral Researcher**, [LIG, Grenoble](https://www.liglab.fr/) and [LaHC, Saint-Etienne, France](http://laboratoirehubertcurien.fr/) (November, 2015 - October, 2018)
+ \small
+  * Title of Doctoral Thesis: Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting.
+  * Designed and developed 3 multiview learning algorithms using PAC-Bayesian theory and ensemble learning.
+  * Experimented on text (written in 5 languages) and image (with 4 views) datasets. Showed significant improvement in prediction performance compared to state-of-art methods.
+  * Actively involved in French ANR Project LIVES.
+  * Top International publications: Neurocomputing Journal 2019, IDA 2018 (CORE Rank A),
+ECML-PKDD 2017 (CORE Rank A) 
+  * National publications: CAp 2018, CAp 2017, CAp 2016
+  
+
+* **Data Science Engineer**, [Cube26, Delhi, India] ()
 
 
   
