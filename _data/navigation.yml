@@ -1,6 +1,8 @@
 # main links links
 main:
-
+  - title: "Home"
+    url: /about/
+    
   - title: "Work Experience"
     url: /experience/
 
@@ -10,8 +12,8 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
 
 
 #   - title: "Publications"

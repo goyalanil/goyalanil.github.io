@@ -10,7 +10,7 @@ classes: wide
 * Member of [ANR LIVES Project](https://lives.lif.univ-mrs.fr/) (Jan,2016-September,2018)
 
 ## Advising
-* Soroush Seifi, [LaHC CNRS, St-Etienne](http://laboratoirehubertcurien.fr/) on **"A PAC-Bayesian Multiview Study"**, (April-June 2016, co-advised with [Prof. Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/) and [Dr. Emilie Morvant](http://perso.univ-st-etienne.fr/me63854h/)
+* Soroush Seifi, [LaHC CNRS, St-Etienne](http://laboratoirehubertcurien.fr/) on **"A PAC-Bayesian Multiview Study"**, (April-June 2016), co-advised with [Prof. Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/) and [Dr. Emilie Morvant](http://perso.univ-st-etienne.fr/me63854h/)
 
 ## Teaching Assistance
 * **Database Management Course** at [The LNMIIT, Jaipur](http://www.lnmiit.ac.in/) (Jan-May,2013 and Jan-May,2012)
