@@ -33,4 +33,4 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 ## Ph.D. Thesis
 
-* Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting, [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), October 2018 [[Published Version](http://www.theses.fr/2018LYSES037)] [[Pdf](https://hal.archives-ouvertes.fr/tel-01881069/document)] [[Slides](https://goyalanil.github.io/files/Papers/Thesis_defense.pdf)]
+* Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting, [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), October 2018 [[Published Version](http://www.theses.fr/en/2018LYSES037)] [[Pdf](https://hal.archives-ouvertes.fr/tel-01881069/document)] [[Slides](https://goyalanil.github.io/files/Papers/Thesis_defense.pdf)]
