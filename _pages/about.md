@@ -19,6 +19,6 @@ Multiview Learning, Ensemble Learning, PAC-Bayes Theory, Domain Adaptation, Tran
 
 ## Contact
 <address>
-  Anil Goyal <br />BUDDI.AI<br /> Chennai<br />
+  Dr. Anil Goyal <br />BUDDIHealth,<br /> No 46/50 Indira Nagar Main Road, Valasaravakkam <br /> Chennai, India<br />
 </address>
 
