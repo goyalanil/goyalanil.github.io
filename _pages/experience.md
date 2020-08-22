@@ -5,6 +5,15 @@ author_profile: true
 classes: wide
 ---
 
+---
+title: "Talk 1 on Relevant Topic in Your Field"
+collection: talks
+type: "Talk"
+permalink: /talks/2012-03-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
+---
 
 * **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) (October, 2018 - August 2020)
   * Designed original machine learning algorithms, with special focus on ensemble meta-learning methods for regression and classification problems.
