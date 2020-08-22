@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-IN"
 title                    : "Anil Goyal "
 title_separator          : "-"
 name                     : &name "Anil Goyal"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anil Goyal"
   avatar           : "Anil_Goyal.jpg"
-  bio              : "Principal Research Scientist at BUDDI.AI"
+  bio              : "Principal Research Scientist (Machine Learning) at BUDDIHealth"
   location         : "Chennai, India"
   employer         : 
   pubmed           : 
