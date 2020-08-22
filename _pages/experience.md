@@ -6,8 +6,7 @@ classes: wide
 ---
 
 
-* **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) 
- 
+* **Research Scientist**,
   ##### [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) 
   ###### Oct, 2018 - Aug 2020
  
