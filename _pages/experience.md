@@ -6,9 +6,9 @@ classes: wide
 ---
 
 
-* **Research Scientist**,
-  ##### [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) 
-  ###### Oct, 2018 - Aug 2020
+* (Oct, 2018 - Aug 2020): **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) 
+        ** dffd
+ 
  
  
 * **Doctoral Researcher**, [LIG, Grenoble](https://www.liglab.fr/) and [LaHC, Saint-Etienne, France](http://laboratoirehubertcurien.fr/) (November, 2015 - October, 2018)
