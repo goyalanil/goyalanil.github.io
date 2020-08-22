@@ -31,4 +31,6 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 * **A. Goyal**, M.K. Jadon, A.K. Pujari, **Spectral Approach to find Number of Clusters of Short-text Documents**, [NCVPRIPG](https://www.cse.iitb.ac.in/~sharat/icvgip.org/ncvpripg2013/index.html), 2013 [[Published Version](https://ieeexplore.ieee.org/document/6776152)]
 
+## Ph.D. Thesis
 
+* Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting, [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), October 2018 [[Published Version](http://www.theses.fr/2018LYSES037)] [[Pdf](https://hal.archives-ouvertes.fr/tel-01881069/document)] [[Slides](https://goyalanil.github.io/files/Papers/Thesis_defense.pdf)]
