@@ -17,7 +17,7 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 
 ## International Conferences
-* **A. Goyal**, J. Khiari, **Diversity-Aware Weighted Majority Vote Classifier for Imbalanced Data**, [IJCNN](https://wcci2020.org/), 2020 [[arXiv](https://arxiv.org/abs/2004.07605)] [[Code](https://github.com/goyalanil/DAMVI)]
+* **A. Goyal**, J. Khiari, **Diversity-Aware Weighted Majority Vote Classifier for Imbalanced Data**, [IJCNN](https://wcci2020.org/), 2020 [[Published Version](https://ieeexplore.ieee.org/document/9207261)] [[arXiv](https://arxiv.org/abs/2004.07605)] [[Code](https://github.com/goyalanil/DAMVI)]
 
 * **A. Goyal**, E. Morvant, M.R. Amini, **"Multiview Learning of Weighted Majority Vote by Bregman Divergence Minimization"**, [IDA](https://ida2018.org/), 2018 [[Published Version](https://link.springer.com/chapter/10.1007/978-3-030-01768-2_11)] [[arXiv](https://arxiv.org/abs/1805.10212)]
 
