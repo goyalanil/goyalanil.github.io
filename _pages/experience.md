@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-* **Principal Research Scientist**, [BUDDIHealth](http://buddi.ai/), (Aug, 20 - Present)
+* **Principal Research Scientist**, [BUDDIHealth, Chennai, India](http://buddi.ai/), (Aug, 20 - Present)
 * **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) (Oct, 18 - Aug, 20)
 * **Doctoral Researcher**, [LIG, Grenoble](https://www.liglab.fr/) and [LaHC, Saint-Etienne, France](http://laboratoirehubertcurien.fr/) (Nov, 15 - Oct, 18)
 * **Data Science Engineer**, [Cube26, Delhi, India](http://cube26.com/) (Aug, 15 - Oct, 15)
