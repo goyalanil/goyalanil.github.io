@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am working as  **Director of Scientific Research** in R&D team at [BUDDIHealth](https://buddi.ai/). 
+I am working as  **Lead Data Scientist** at [Housing.com](https://housing.com/). 
 
-Previously, I worked as **Research Scientist** at [NEC Laboratories Europe](https://www.neclab.eu/), Heidelberg, Germany. Prior to that, I obtained my Ph.D. in computer science (Machine Learning) from [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), Lyon. I worked under the guidance of [Prof. Massih-Reza Amini](http://ama.liglab.fr/~amini/ ) at [LIG, Grenoble](https://www.liglab.fr/) and [Dr. Emilie Morvant](http://perso.univ-st-etienne.fr/me63854h/) at [LaHC, CNRS, Saint-Etienne](http://laboratoirehubertcurien.fr/). During my Ph.D., I was actively involved in [ANR LIVES Project](https://lives.lif.univ-mrs.fr/) (Learning with Interacting ViEwS). I obtained my Masters in Computer Science from ENSIMAG, Grenoble INP, France (2014-2015).
+Previously, I was  **Director of Scientific Research** in R&D team at [BUDDIHealth](https://buddi.ai/) where I lead multiple scientific research programs. I was responsible for productizing the ML research work ensuring alignment to business objectives and strategies. I joined BUDDI.AI as **Principal Research Scientist** in August 2020 and worked on the problems of document classification and contract document analysis. During my time at BUDDI.AI, I am actively involved in mentoring and hiring junior research associates.
+
+Prior to that, I worked as **Research Scientist** at [NEC Laboratories Europe](https://www.neclab.eu/), Heidelberg, Germany. I managed one European Project and one technology transfer project. I designed and developed machine learning algorithms, with special focus on ensemble meta-learning methods for regression and classification problems. 
+
+I obtained my Ph.D. in computer science (Machine Learning) from [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), Lyon. I worked under the guidance of [Prof. Massih-Reza Amini](http://ama.liglab.fr/~amini/ ) at [LIG, Grenoble](https://www.liglab.fr/) and [Dr. Emilie Morvant](http://perso.univ-st-etienne.fr/me63854h/) at [LaHC, CNRS, Saint-Etienne](http://laboratoirehubertcurien.fr/). During my Ph.D., I was actively involved in [ANR LIVES Project](https://lives.lif.univ-mrs.fr/) (Learning with Interacting ViEwS). I obtained my Masters in Computer Science from ENSIMAG, Grenoble INP, France (2014-2015).
 
 You can find more information in my [CV](https://goyalanil.github.io/files/Anil_Goyal_Resume.pdf)
 
