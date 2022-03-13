@@ -23,6 +23,6 @@ Multiview Learning, Ensemble Learning, PAC-Bayes Theory, Domain Adaptation, Tran
 
 ## Contact
 <address>
-  Dr. Anil Goyal <br />BUDDIHealth,<br />  5th Floor, Kurios Software Park, Ambattur Industrial Estate <br /> Chennai, India<br />
+  Dr. Anil Goyal <br />Housing.com,<br />  Echelon Square, Plot 25, Sector 32 <br /> Gurgaon, India<br />
 </address>
 
