@@ -5,8 +5,8 @@ author_profile: true
 classes: wide
 ---
 
-
-* **Director of Scientific Research**, [BUDDIHealth, Chennai, India](http://buddi.ai/), (Jul, 21 - Present)
+* **Lead Data Scientist**, [Housing.com, Gurgaon, India](https://housing.com/), (Mar, 22 - Present)
+* **Director of Scientific Research**, [BUDDIHealth, Chennai, India](http://buddi.ai/), (Jul, 21 - Feb, 22)
 * **Principal Research Scientist**, [BUDDIHealth, Chennai, India](http://buddi.ai/), (Aug, 20 - June, 21)
 * **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) (Oct, 18 - Aug, 20)
 * **Doctoral Researcher**, [LIG, Grenoble](https://www.liglab.fr/) and [LaHC, Saint-Etienne, France](http://laboratoirehubertcurien.fr/) (Nov, 15 - Oct, 18)
