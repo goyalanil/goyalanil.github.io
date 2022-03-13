@@ -10,7 +10,7 @@ redirect_from:
 
 I am working as  **Lead Data Scientist** at [Housing.com](https://housing.com/). 
 
-Previously, I was  **Director of Scientific Research** in R&D team at [BUDDIHealth](https://buddi.ai/) where I lead multiple scientific research programs. I was responsible for productizing the ML research work ensuring alignment to business objectives and strategies. I joined BUDDI.AI as **Principal Research Scientist** in August 2020 and worked on the problems of document classification and contract document analysis. During my time at BUDDI.AI, I am actively involved in mentoring and hiring junior research associates.
+Previously, I was  **Director of Scientific Research** in R&D team at [BUDDIHealth](https://buddi.ai/) where I lead multiple scientific research programs. I was responsible for productizing the ML research work ensuring alignment to business objectives and strategies. I joined BUDDI.AI as **Principal Research Scientist** in August 2020 and worked on the problems of document classification and contract document analysis. During my time at BUDDI.AI, I was actively involved in mentoring and hiring junior research associates.
 
 Prior to that, I worked as **Research Scientist** at [NEC Laboratories Europe](https://www.neclab.eu/), Heidelberg, Germany. I managed one European Project and one technology transfer project. I designed and developed machine learning algorithms, with special focus on ensemble meta-learning methods for regression and classification problems. 
 
