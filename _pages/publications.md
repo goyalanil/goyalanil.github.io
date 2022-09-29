@@ -14,6 +14,12 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 ## Patent Applications
 
+* Nandhinee Periyakaruppan, Harinath Krishnamoorthy, **Anil Goyal**, Sudarsun Santhiappan, **End-to-end system for extracting tabular data present in electronic documents and method thereof**, 2022 [[US Patent Application](https://patentimages.storage.googleapis.com/af/53/3d/359cdfa0417979/US20220284722A1.pdf)] 
+
+* Tobias Jacobs, **A. Goyal**, **Decentralized multi-task learning**, 2020 [[US Patent Application](https://patentimages.storage.googleapis.com/a5/e8/ca/d913ede7839915/US20220051133A1.pdf)] 
+
+* **A. Goyal**, Ammar Shaker, Francesco Alesiani, **Machine learning knowledge management based on lifelong boosting in presence of less data**, 2020 [[US Patent Application](https://patentimages.storage.googleapis.com/c9/2e/6b/ce81f8c6994d1d/US20210374566A1.pdf)] 
+
 * **A. Goyal**, J. Khiari, **Diversity-aware weighted majority vote classifier for imbalanced datasets**, 2019 [[US Patent Application](https://patentimages.storage.googleapis.com/ec/aa/51/4570ea4c5ce2d3/US20220222931A1.pdf)] 
 
 
