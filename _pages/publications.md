@@ -29,6 +29,10 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 
 ## International Conferences
+* Badal Gupta, **Anil Goyal**, Chirag Sharma, Divyansh Kumar, **RE-RentFraud: A System to detect Frauds in rent payments for Real-Estate properties**, [CODS-COMAD](https://cods-comad.in/index.php), 2023 [[Published Version](https://dl.acm.org/doi/abs/10.1145/3570991.3571066)] 
+
+* Prateek Chhikara, Harshul Kuhar, **Anil Goyal**, Chirag Sharma, **DIGITOUR: Automatic Digital Tours for Real-Estate Properties**, [CODS-COMAD](https://cods-comad.in/index.php), 2023 [[Published Version](https://dl.acm.org/doi/abs/10.1145/3570991.3571060)] [[arXiv](https://arxiv.org/abs/2301.06680)] 
+
 * Prateek Chhikara, **Anil Goyal**, Chirag Sharma, **RE-Tagger: A light-weight Real-Estate Image Classifier**, [ECML-PKDD](https://2022.ecmlpkdd.org/), 2022 [[arXiv](https://arxiv.org/abs/2207.05696)] [[Demo Video](https://www.youtube.com/watch?v=eVWkU7yb-3M)]
 
 * **A. Goyal**, J. Khiari, **Diversity-Aware Weighted Majority Vote Classifier for Imbalanced Data**, [IJCNN](https://wcci2020.org/), 2020 [[Published Version](https://ieeexplore.ieee.org/document/9207261)] [[arXiv](https://arxiv.org/abs/2004.07605)] [[Code](https://github.com/goyalanil/DAMVI)]
