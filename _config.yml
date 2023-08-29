@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-IN"
-title                    : "Anil Goyal "
+title                    : "Dr. Anil Goyal "
 title_separator          : "-"
-name                     : &name "Anil Goyal"
-description              : &description "Lead Data Scientist at Housing.com"
+name                     : &name " Dr. Anil Goyal"
+description              : &description "Principal Data Scientist at Housing.com"
 url                      : https://goyalanil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goyalanil.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anil Goyal"
+  name             : "Dr. Anil Goyal"
   avatar           : "Anil_Goyal.jpg"
-  bio              : "Lead Data Scientist at Housing.com"
+  bio              : "Principal Data Scientist at Housing.com"
   location         : "Gurgaon, India"
   employer         : 
   pubmed           : 
