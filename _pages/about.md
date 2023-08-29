@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am working as  **Lead Data Scientist** at [Housing.com](https://housing.com/). 
+Dr. Anil Goyal is a accomplished data scientist and researcher with a strong track record of leadership and innovation. In his current role as **Principal Research Scientist** at [Housing.com](https://housing.com/) (Gurgaon), he leads and shapes the data science team's direction to align with business objectives. Anil has spearheaded R&D initiatives, publishing three research papers at top international conferences. His collaboration with cross-functional teams has led to the successful implementation of ML solutions for various problems including 3D virtual tour generation, fraud detection, recommendation engines, and price prediction. Notably, he is managing a team of 10 data scientists, analysts and QA engineers.
 
-Previously, I was  **Director of Scientific Research** in R&D team at [BUDDIHealth](https://buddi.ai/) where I lead multiple scientific research programs. I was responsible for productizing the ML research work ensuring alignment to business objectives and strategies. I joined BUDDI.AI as **Principal Research Scientist** in August 2020 and worked on the problems of document classification and contract document analysis. During my time at BUDDI.AI, I was actively involved in mentoring and hiring junior research associates.
+Prior experiences at [BUDDIHealth](https://buddi.ai/) and [NEC Laboratories Europe](https://www.neclab.eu/) further demonstrated his deep involvement in research and development, with a strong focus on practical implementation, securing multiple patent applications and research papers. He contributed pioneering work in medical document understanding, document classification, predictive maintenance, driver drowsiness detection, and more, highlighting their adaptability and depth of expertise.
 
-Prior to that, I worked as **Research Scientist** at [NEC Laboratories Europe](https://www.neclab.eu/), Heidelberg, Germany. I managed one European Project and one technology transfer project. I designed and developed machine learning algorithms, with special focus on ensemble meta-learning methods for regression and classification problems. 
-
-I obtained my Ph.D. in computer science (Machine Learning) from [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), Lyon. I worked under the guidance of [Prof. Massih-Reza Amini](http://ama.liglab.fr/~amini/ ) at [LIG, Grenoble](https://www.liglab.fr/) and [Dr. Emilie Morvant](http://perso.univ-st-etienne.fr/me63854h/) at [LaHC, CNRS, Saint-Etienne](http://laboratoirehubertcurien.fr/). During my Ph.D., I was actively involved in [ANR LIVES Project](https://lives.lif.univ-mrs.fr/) (Learning with Interacting ViEwS). I obtained my Masters in Computer Science from ENSIMAG, Grenoble INP, France (2014-2015).
+Anil's academic journey is marked by a Ph.D.  in Machine Learning from Université de Lyon, Lyon, France and Master's in Computer Science from  ENSIMAG, Grenoble INP, France.  I worked under the guidance of Prof. Massih-Reza Amini at LIG, Grenoble and Dr. Emilie Morvant at LaHC, CNRS, Saint-Etienne.
 
 You can find more information in my [CV](https://goyalanil.github.io/files/Anil_Goyal_Resume.pdf)
 
 ### Research Interests 
-Multiview Learning, Ensemble Learning, PAC-Bayes Theory, Domain Adaptation, Transfer Learning, Lifelong Learning, Learning with Imbalanced Data, Information Retrieval. 
+Fraud Detection, Recommendation Engine, Document Understanding, Multiview Learning, Ensemble Learning, PAC-Bayes Theory, Domain Adaptation, Transfer Learning, Lifelong Learning, Learning with Imbalanced Data, Information Retrieval. 
 
 ## Contact
 <address>
