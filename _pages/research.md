@@ -17,7 +17,7 @@ classes: wide
 
 ## Conferences
 
-[IJCNN 2020](https://wcci2020.org/), [ICML 2020](https://icml.cc/Conferences/2020) , [IDA 2018](http://ida2018.org), [CAp 2018](http://cap2018.litislab.fr/), [ECIR 2018](https://www.ecir2018.org), [CAp 2017](http://cap2017.imag.fr/index-en.html), [CAp 2016](https://cap16.lif.univ-mrs.fr/), [NCVPRIPG 2013](https://www.cse.iitb.ac.in/~sharat/icvgip.org/ncvpripg2013/index.html) 
+[CODS-COMAD 2023](https://cods-comad.in/2023/), [ECML-PKDD 2022](https://2022.ecmlpkdd.org/index.html), [ICLR 2021](https://iclr.cc/Conferences/2021), [IJCNN 2020](https://wcci2020.org/), [ICML 2020](https://icml.cc/Conferences/2020) , [IDA 2018](http://ida2018.org), [CAp 2018](http://cap2018.litislab.fr/), [ECIR 2018](https://www.ecir2018.org), [CAp 2017](http://cap2017.imag.fr/index-en.html), [CAp 2016](https://cap16.lif.univ-mrs.fr/), [NCVPRIPG 2013](https://www.cse.iitb.ac.in/~sharat/icvgip.org/ncvpripg2013/index.html) 
 
 ## Workshops
 [Deep Learning Workshop 2017](http://perso.univ-st-etienne.fr/fod07375/Saint&Lyon/), [Computational and Statistical Trade-offs in Learning 2016](https://indico.math.cnrs.fr/event/1007/)
