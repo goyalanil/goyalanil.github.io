@@ -5,7 +5,8 @@ author_profile: true
 classes: wide
 ---
 
-* **Lead Data Scientist**, [Housing.com, Gurgaon, India](https://housing.com/), (Mar, 22 - Present)
+* **Principal Data Scientist**, [Housing.com, Gurgaon, India](https://housing.com/), (July, 23 - Present)
+* **Lead Data Scientist**, [Housing.com, Gurgaon, India](https://housing.com/), (Mar, 22 - June, 23)
 * **Director of Scientific Research**, [BUDDIHealth, Chennai, India](http://buddi.ai/), (Jul, 21 - Feb, 22)
 * **Principal Research Scientist**, [BUDDIHealth, Chennai, India](http://buddi.ai/), (Aug, 20 - June, 21)
 * **Research Scientist**, [NEC Laboratories Europe, Heidelberg, Germany](http://neclab.eu/) (Oct, 18 - Aug, 20)
