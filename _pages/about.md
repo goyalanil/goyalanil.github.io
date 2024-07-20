@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Anil Goyal is an accomplished data scientist and researcher with a strong track record of leadership and innovation. In his current role as **Principal Data Scientist** at [Housing.com](https://housing.com/) (Gurgaon), he leads and shapes the data science team's direction to align with business objectives. Anil has spearheaded R&D initiatives, publishing 4 research papers at top international conferences. His collaboration with cross-functional teams has led to the successful implementation of ML solutions for various problems including 3D virtual tour generation, fraud detection, recommendation engines, and price prediction. Notably, he is managing a team of 10 data scientists, analysts and QA engineers.
+Anil Goyal is an accomplished data scientist and researcher with a strong track record of leadership and innovation. He is currently working as **Senior Research Scientist** at [Amazon](https://www.amazon.science/), Gurgaon. 
+
+In his previous role as **Principal Data Scientist** at [Housing.com](https://housing.com/) (Gurgaon), he lead and shaped the data science team's direction to align with business objectives. Anil had spearheaded R&D initiatives, publishing 5 research papers at top international conferences. His collaboration with cross-functional teams has led to the successful implementation of ML solutions for various problems including 3D virtual tour generation, fraud detection, recommendation engines, and price prediction. Notably, he is managing a team of 10 data scientists, analysts and QA engineers.
 
 Prior experiences at [BUDDIHealth](https://buddi.ai/) and [NEC Laboratories Europe](https://www.neclab.eu/) further demonstrated his deep involvement in research and development, with a strong focus on practical implementation, securing multiple patent applications and research papers. He contributed pioneering work in medical document understanding, document classification, predictive maintenance, driver drowsiness detection, and more, highlighting their adaptability and depth of expertise.
 
@@ -21,6 +23,6 @@ Fraud Detection, Recommendation Engine, Document Understanding, Multiview Learni
 
 ## Contact
 <address>
-  Dr. Anil Goyal <br />Housing.com,<br />  Echelon Square, Plot 25, Sector 32 <br /> Gurgaon, India<br />
+  Dr. Anil Goyal <br />Housing.com,<br />  DLF Downtown, Ambience Island, <br /> Gurgaon, India<br />
 </address>
 
