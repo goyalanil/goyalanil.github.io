@@ -11,17 +11,16 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 * Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting, [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), October 2018 [[Published Version](http://www.theses.fr/en/2018LYSES037)] [[Pdf](https://hal.archives-ouvertes.fr/tel-01881069/document)] [[Slides](https://goyalanil.github.io/files/Papers/Thesis_defense.pdf)]
 
+## Granted Patents
+* Nandhinee Periyakaruppan, Harinath Krishnamoorthy, **Anil Goyal**, Sudarsun Santhiappan, **End-to-end system for extracting tabular data present in electronic documents and method thereof**, 2022 [[US Patent](https://patents.google.com/patent/US11887393B2/en)] 
+
+* **A. Goyal**, Ammar Shaker, Francesco Alesiani, **Machine learning knowledge management based on lifelong boosting in presence of less data**, 2020 [[US Patent](https://patents.google.com/patent/US11995566B2/en)] 
+
 
 ## Patent Applications
-
-* Nandhinee Periyakaruppan, Harinath Krishnamoorthy, **Anil Goyal**, Sudarsun Santhiappan, **End-to-end system for extracting tabular data present in electronic documents and method thereof**, 2022 [[US Patent Application](https://patentimages.storage.googleapis.com/af/53/3d/359cdfa0417979/US20220284722A1.pdf)] 
-
 * Tobias Jacobs, **A. Goyal**, **Decentralized multi-task learning**, 2020 [[US Patent Application](https://patentimages.storage.googleapis.com/a5/e8/ca/d913ede7839915/US20220051133A1.pdf)] 
 
-* **A. Goyal**, Ammar Shaker, Francesco Alesiani, **Machine learning knowledge management based on lifelong boosting in presence of less data**, 2020 [[US Patent Application](https://patentimages.storage.googleapis.com/c9/2e/6b/ce81f8c6994d1d/US20210374566A1.pdf)] 
-
 * **A. Goyal**, J. Khiari, **Diversity-aware weighted majority vote classifier for imbalanced datasets**, 2019 [[US Patent Application](https://patentimages.storage.googleapis.com/ec/aa/51/4570ea4c5ce2d3/US20220222931A1.pdf)] 
-
 
 ## International Journal
 
@@ -29,11 +28,15 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 
 ## International Conferences
+* Venkates C, Harshit Oberoi, Anurag Pandey, **Anil Goyal**, Nikhil Sikka, **RE-GrievanceAssist: Enhancing Customer Experience through ML-Powered Complaint Managementr**, [ECML-PKDD](https://ecmlpkdd.org/2024/), 2024 [[arXiv](https://arxiv.org/abs/2404.18963)] [[Demo Video](https://www.youtube.com/watch?v=PM4Q3dNTrr4)]
+
+* Venkates C, Harshit Oberoi, **Anil Goyal**, Nikhil Sikka, **RE-RecSys: An End-to-End system for recommending properties in Real-Estate domain**, [CODS-COMAD](https://cods-comad.in/index.php), 2024 [[Published Version](https://dl.acm.org/doi/10.1145/3632410.3632487)] [[arXiv](https://arxiv.org/abs/2404.16553)]
+
 * Badal Gupta, **Anil Goyal**, Chirag Sharma, Divyansh Kumar, **RE-RentFraud: A System to detect Frauds in rent payments for Real-Estate properties**, [CODS-COMAD](https://cods-comad.in/index.php), 2023 [[Published Version](https://dl.acm.org/doi/abs/10.1145/3570991.3571066)] 
 
 * Prateek Chhikara, Harshul Kuhar, **Anil Goyal**, Chirag Sharma, **DIGITOUR: Automatic Digital Tours for Real-Estate Properties**, [CODS-COMAD](https://cods-comad.in/index.php), 2023 [[Published Version](https://dl.acm.org/doi/abs/10.1145/3570991.3571060)] [[arXiv](https://arxiv.org/abs/2301.06680)] 
 
-* Prateek Chhikara, **Anil Goyal**, Chirag Sharma, **RE-Tagger: A light-weight Real-Estate Image Classifier**, [ECML-PKDD](https://2022.ecmlpkdd.org/), 2022 [[arXiv](https://arxiv.org/abs/2207.05696)] [[Demo Video](https://www.youtube.com/watch?v=eVWkU7yb-3M)]
+* Prateek Chhikara, **Anil Goyal**, Chirag Sharma, **RE-Tagger: A light-weight Real-Estate Image Classifier**, [ECML-PKDD](https://2022.ecmlpkdd.org/), 2022 [[Published Version](https://link.springer.com/chapter/10.1007/978-3-031-26422-1_44)] [[arXiv](https://arxiv.org/abs/2207.05696)] [[Demo Video](https://www.youtube.com/watch?v=eVWkU7yb-3M)]
 
 * **A. Goyal**, J. Khiari, **Diversity-Aware Weighted Majority Vote Classifier for Imbalanced Data**, [IJCNN](https://wcci2020.org/), 2020 [[Published Version](https://ieeexplore.ieee.org/document/9207261)] [[arXiv](https://arxiv.org/abs/2004.07605)] [[Code](https://github.com/goyalanil/DAMVI)]
 
