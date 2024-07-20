@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Anil Goyal is an accomplished data scientist and researcher with a strong track record of leadership and innovation. He is currently working as **Senior Research Scientist** at [Amazon](https://www.amazon.science/), Gurgaon. 
+Anil Goyal is an accomplished data scientist and researcher with a strong track record of leadership and innovation. He is currently working as **Senior Research Scientist** at [Amazon](https://www.amazon.science/), Delhi. 
 
 In his previous role as **Principal Data Scientist** at [Housing.com](https://housing.com/) (Gurgaon), he lead and shaped the data science team's direction to align with business objectives. Anil had spearheaded R&D initiatives, publishing 5 research papers at top international conferences. His collaboration with cross-functional teams has led to the successful implementation of ML solutions for various problems including 3D virtual tour generation, fraud detection, recommendation engines, and price prediction. Notably, he is managing a team of 10 data scientists, analysts and QA engineers.
 
@@ -23,6 +23,6 @@ Fraud Detection, Recommendation Engine, Document Understanding, Multiview Learni
 
 ## Contact
 <address>
-  Dr. Anil Goyal <br />Amazon,<br />  DLF Downtown, Ambience Island, <br /> Gurgaon, India<br />
+  Dr. Anil Goyal <br />Amazon,<br />  DLF Downtown, Ambience Island, <br /> Delhi, India<br />
 </address>
 
