@@ -12,10 +12,9 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 * Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting, [Université de  Lyon](https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp), October 2018 [[Published Version](http://www.theses.fr/en/2018LYSES037)] [[Pdf](https://hal.archives-ouvertes.fr/tel-01881069/document)] [[Slides](https://goyalanil.github.io/files/Papers/Thesis_defense.pdf)]
 
 ## Granted Patents
-* Nandhinee Periyakaruppan, Harinath Krishnamoorthy, **Anil Goyal**, Sudarsun Santhiappan, **End-to-end system for extracting tabular data present in electronic documents and method thereof**, 2022 [[US Patent](https://patents.google.com/patent/US11887393B2/en)] 
-
-* **A. Goyal**, Ammar Shaker, Francesco Alesiani, **Machine learning knowledge management based on lifelong boosting in presence of less data**, 2020 [[US Patent](https://patents.google.com/patent/US11995566B2/en)] 
-
+* **A. Goyal**, Ammar Shaker, Francesco Alesiani, **Machine learning knowledge management based on lifelong boosting in presence of less data**, 2024 [[US Patent](https://patents.google.com/patent/US11995566B2/en)]
+* 
+* Nandhinee Periyakaruppan, Harinath Krishnamoorthy, **Anil Goyal**, Sudarsun Santhiappan, **End-to-end system for extracting tabular data present in electronic documents and method thereof**, 2024 [[US Patent](https://patents.google.com/patent/US11887393B2/en)] 
 
 ## Patent Applications
 * Tobias Jacobs, **A. Goyal**, **Decentralized multi-task learning**, 2020 [[US Patent Application](https://patentimages.storage.googleapis.com/a5/e8/ca/d913ede7839915/US20220051133A1.pdf)] 
