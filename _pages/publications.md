@@ -13,7 +13,7 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 ## Granted Patents
 * **A. Goyal**, Ammar Shaker, Francesco Alesiani, **Machine learning knowledge management based on lifelong boosting in presence of less data**, 2024 [[US Patent](https://patents.google.com/patent/US11995566B2/en)]
-* 
+
 * Nandhinee Periyakaruppan, Harinath Krishnamoorthy, **Anil Goyal**, Sudarsun Santhiappan, **End-to-end system for extracting tabular data present in electronic documents and method thereof**, 2024 [[US Patent](https://patents.google.com/patent/US11887393B2/en)] 
 
 ## Patent Applications
