@@ -23,6 +23,6 @@ Fraud Detection, Recommendation Engine, Document Understanding, Multiview Learni
 
 ## Contact
 <address>
-  Dr. Anil Goyal <br />Housing.com,<br />  DLF Downtown, Ambience Island, <br /> Gurgaon, India<br />
+  Dr. Anil Goyal <br />Amazon,<br />  DLF Downtown, Ambience Island, <br /> Gurgaon, India<br />
 </address>
 
