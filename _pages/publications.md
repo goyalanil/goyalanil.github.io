@@ -27,7 +27,7 @@ You can find my publications at [Google Scholar](https://scholar.google.com/cita
 
 
 ## International Conferences
-* Venkates C, Harshit Oberoi, Anurag Pandey, **Anil Goyal**, Nikhil Sikka, **RE-GrievanceAssist: Enhancing Customer Experience through ML-Powered Complaint Managementr**, [ECML-PKDD](https://ecmlpkdd.org/2024/), 2024 [[arXiv](https://arxiv.org/abs/2404.18963)] [[Demo Video](https://www.youtube.com/watch?v=PM4Q3dNTrr4)]
+* Venkates C, Harshit Oberoi, Anurag Pandey, **Anil Goyal**, Nikhil Sikka, **RE-GrievanceAssist: Enhancing Customer Experience through ML-Powered Complaint Management**, [ECML-PKDD](https://ecmlpkdd.org/2024/), 2024 [[Published Version](https://dl.acm.org/doi/10.1007/978-3-031-70371-3_27)] [[arXiv](https://arxiv.org/abs/2404.18963)] [[Demo Video](https://www.youtube.com/watch?v=PM4Q3dNTrr4)]
 
 * Venkates C, Harshit Oberoi, **Anil Goyal**, Nikhil Sikka, **RE-RecSys: An End-to-End system for recommending properties in Real-Estate domain**, [CODS-COMAD](https://cods-comad.in/index.php), 2024 [[Published Version](https://dl.acm.org/doi/10.1145/3632410.3632487)] [[arXiv](https://arxiv.org/abs/2404.16553)]
 
