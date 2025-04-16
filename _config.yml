@@ -10,7 +10,7 @@ locale                   : "en-IN"
 title                    : "Dr. Anil Goyal "
 title_separator          : "-"
 name                     : &name " Dr. Anil Goyal"
-description              : &description "Senior Research Scientist at Amazon"
+description              : &description "Principal Data Scientist at Mastercard"
 url                      : https://goyalanil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goyalanil.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Anil Goyal"
   avatar           : "Anil_Goyal.jpg"
-  bio              : "Senior Research Scientist at Amazon"
+  bio              : "Principal Data Scientist at Mastercard"
   location         : "Gurgaon, India"
   employer         : 
   pubmed           : 
