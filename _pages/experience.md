@@ -5,7 +5,8 @@ author_profile: true
 classes: wide
 ---
 
-* **Senior Research Scientist**, [Amazon.com, Delhi, India](https://www.amazon.science/), (May, 24 - present)
+* **Principal Data Scientist**, [Mastercard, Gurgaon, India](https://www.mastercard.com/global/en/business/overview/ai-garage.html), (Mar, 25 - Present)
+* **Senior Research Scientist**, [Amazon.com, Delhi, India](https://www.amazon.science/), (May, 24 - Mar, 25)
 * **Principal Data Scientist**, [Housing.com, Gurgaon, India](https://housing.com/), (July, 23 - May, 24)
 * **Lead Data Scientist**, [Housing.com, Gurgaon, India](https://housing.com/), (Mar, 22 - June, 23)
 * **Director of Scientific Research**, [BUDDIHealth, Chennai, India](http://buddi.ai/), (Jul, 21 - Feb, 22)
